@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nikos
+- 👀 I’m interested in computer science and IT system management
+- 🌱 I’m currently advancing PowerShell and willing to learn Python when have some spare time
+- 💞️ I’m looking to collaborate on anything related
